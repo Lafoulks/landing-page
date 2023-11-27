@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+}
+
+.header {
+    display: flex;
+    border: 2px solid blue;
+}
+
+.dog {
+    min-height: 100px;
+    width: 100px;
+}
