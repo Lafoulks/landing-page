@@ -1,6 +1,16 @@
-.header {
+.navbar {
     display: flex;
-    border: 2px solid blue;
+    justify-content: space-around;
+}
+
+.links {
+    display: flex;
+    gap: 20px;
+}
+
+.header-content {
+    display: flex;
+    justify-content: center;
 }
 
 .dog {
