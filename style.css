@@ -1,3 +1,4 @@
+
 .navbar {
     display: flex;
     justify-content: space-around;
@@ -8,16 +9,30 @@
     gap: 20px;
 }
 
-.header-content {
+.header-content, h3 {
     display: flex;
     justify-content: center;
 }
 
-.dog {
+.header-cat {
     min-height: 100px;
     width: 100px;
 }
 
+.info {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
 .img-text {
-    border: 2px solid blue;
+    
+    border-radius: 10%;
+    height: 150px;
+    max-width: 150px;
+}
+
+.cat {
+    height: 150px;
+    width: 150px;
 }
