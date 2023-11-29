@@ -26,7 +26,6 @@
 }
 
 .img-text {
-    
     border-radius: 10%;
     height: 150px;
     max-width: 150px;
@@ -36,3 +35,11 @@
     height: 150px;
     width: 150px;
 }
+
+.quote {
+    display: block;
+    text-align: center;
+    margin-top: 200px;
+    height: 200px;
+}
+ 
